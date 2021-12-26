@@ -1,1 +1,1 @@
-# Gerador de QR CODE #
+# Gerador de QR CODE Desenvolvido em Vue.js #
